@@ -4,9 +4,17 @@ This project implements a simple login register and edit employees information w
 It is really helpful for those who learn the framework for the first time
 Screenshot
 ====
-![example image](example-image.jpg "An exemplary image")
-![example image](example-image.jpg "An exemplary image")
-![example image](example-image.jpg "An exemplary image")
+Login form
+
+![login](https://raw.githubusercontent.com/wssbwssbwssb/spring-struts-hibernate-login-register-with-authroztion-and-remeber-me-best-practice/master/screenshot/login.png "login")
+
+Register form
+
+![register](https://raw.githubusercontent.com/wssbwssbwssb/spring-struts-hibernate-login-register-with-authroztion-and-remeber-me-best-practice/master/screenshot/register.png "register")
+
+List form
+
+![list](https://raw.githubusercontent.com/wssbwssbwssb/spring-struts-hibernate-login-register-with-authroztion-and-remeber-me-best-practice/master/screenshot/list.png "list")
 
 Features
 ---------
