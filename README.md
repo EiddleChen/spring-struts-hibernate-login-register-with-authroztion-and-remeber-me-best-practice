@@ -2,6 +2,12 @@ Spring struts hibernate login register with authroztion and remeber me best prac
 =====
 This project implements a simple login register and edit employees information webapp using Spring4 struts2 and hibernate3.
 It is really helpful for those who learn the framework for the first time
+Screenshot
+====
+![example image](example-image.jpg "An exemplary image")
+![example image](example-image.jpg "An exemplary image")
+![example image](example-image.jpg "An exemplary image")
+
 Features
 ---------
   * Remember me function: login with cookies when a new session is created.
